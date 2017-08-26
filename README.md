@@ -1,2 +1,2 @@
-# hellow-world
-This is my hello world
+# hellow-world_in java
+These are my simple programs in java
